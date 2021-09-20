@@ -1,4 +1,4 @@
-module github.com/zubairhassan652/terraform-provider-example
+module github.com/ishtiaq79/terraform-provider-example
 
 go 1.16
 

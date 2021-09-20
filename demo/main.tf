@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     example = {
-      source = "registry.terraform.io/zubairhassan652/example"
+      source = "registry.terraform.io/ishtiaq79/example"
       version = "~> 1.0"
     }
   }
